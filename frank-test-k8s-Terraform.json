@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "frank-test-k8s",
+  "private_key_id": "dadcb80fce736e2f26f74c5ff417215fe4e8b1c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsyMZpLkfW2HUW\nSP0Vup8vpabOWt+mrmpKtjF1hSN0OhtqDItGVGxNRMYKUm4QJMGJoXW8OKb3Kmw6\nWa/xm5oPh1w8yePjMzSZrlqpyB:qq!gtnzL2UL4bCW6njJeUNC/K75GsL/zUG/PSM+q5\nEE26PQN1HvthyZ5l8BaGMre+hqH4GpUOZG3OqYI6Pgo4dsw/YMzOhggXaoIO7ewG\nAxK2BN6d1VNKl13QETL5RbCMbyVhETU1/fiJE/oDsk9KWqZH1zk+cfY9JsCQLYuP\nSB3SlDrddqEJAcZWGzw85yGZnSzld5XaP+nX2xQWh/zqq5B9JrGa/JdOOyQ4ZUoU\nn0pg1E87AgMBAAECggEAQIvGklt8V9Ovr0B8RRUXWby1SOE6wEwhS3Z46wk9Dezd\nFj6PJL/Uugd6WMv5lsr+Ow9ZcdKbqRrWX92c+aaqC3uhqCx8w61stEv0CP4zoRQZ\np02BVQtwL5pCo7LKKG6/7gkyyXtJLs7aOFJ6bb8+Fwo4CoMUe8ND0Jc4wWYf9up5\n5UZa7QOpWRBj6IU5c52UZi1/5an2qiy98z2gXtB46Y76067OfyPJCB1/rKcKj4K2\nKuNnmAy5ssXf8WVzgzcAOIvKKtYkufkRjStarw+44WttI2wd8l9OvMheMnpgsHkx\n2coVoK7U0CWJqbnSH1FSd3dO7uKmlOuCKZB+vFTwAQKBgQD4WHToMlQUOCIP0aFc\n6ZSxLa5C0Gyav5t0rhu6Mmeg2HG+AtVVyK4FngQrOHzYEzN9I7aO7EXkoRf73XWs\nWYXfK/8Ti5tZRUaf4ezZYLGIU0eg0cDmPCbgsbX+gGv4zUN929i8yT1L6wa3BMjK\nFxR4K4BmHCjQfAA88cvWSRKYAQKBgQD0FRh1f7HO3dg2oXRhWgYr8F/Fzh9x1UGG\n1YJxDfg9IDKkRiTYq4QEtF1dzfBzTHGMfHfXCrk5HcTjnwdEwETkoeOMuIEbUJuy\nT971mNBBhPo+yA0j0QbtY9r8vXH8U1RYYJdNsGuxSSXo3adWbKu6JdkZpi0+8x5Y\n8GeamWNHOwKBgD/3CKWF0QIkMyG/7L/xqcq46VlsNYzmLTQwZBPhR6+2EBXQxQID\nXk80E/7N3doJmAlzWWIWmSn6FCNbNyPdKw4AVwLBwpGLtlUX69lRfmiOirRxUi36\n8EiPfUC/8w9yTx/rsDdv3cngDyq0oMLsjukkyz2Bo0GPrsADx2y6BYABAoGAd4G8\nsAsNrBPCwTzcFq5VRz4yJk995eZcZwAzFdeZK5SQNw6BC/Uudn85F6y1hj5vejGX\nG5sMhYKl3C0JCgh5stfw6f2MeStGkE+7AtUHYo0RWZvpkxfNJH43wnefT8QdEAh7\nDHbMw8jk3tdoD1C15DaTzZMnpCK1QSa0E2X2zfECgYEAqcYuoSmGXsjRX/SFYANS\nTXFS3Z8QHIbfPZSd8TOdwOJO3UKiIe/9rvk0E72kLSwhYGRQSqSVrDpfZZJc3y8L\npfPH1Rci8JgpFQva0rBh4+5YG/Y5ug59BU85rUZZ8P8a9GF/ZQ0WoKRRCMVup7kk\nZd9m0x4f6P6aRsVKmJbukcA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-for-frank-test-k8s@frank-test-k8s.iam.gserviceaccount.com",
+  "client_id": "109242431527149351075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-for-frank-test-k8s%40frank-test-k8s.iam.gserviceaccount.com"
+}
