@@ -5,7 +5,8 @@ resource "google_compute_instance" "default" {
 
   boot_disk {
     initialize_params {
-      image = "debian-cloud/debian-9"
+      //https://cloud.google.com/compute/docs/images#os-compute-support
+      image = "ubuntu-os-cloud/ubuntu-minimal-1804-lts"
     }
   }
 
