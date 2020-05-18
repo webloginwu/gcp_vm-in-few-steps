@@ -33,7 +33,7 @@ resource "google_compute_firewall" "http-server" {
 
   allow {
     protocol = "tcp"
-    ports    = ["80","1701","5555","1080","22"]
+    ports    = ["80","1701","5555","1080","22","1000"]
   }
   allow {
         protocol = "udp"
